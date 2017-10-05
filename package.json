@@ -1,0 +1,13 @@
+{
+  "name": "electronbot",
+  "version": "1.0.0",
+  "description": "Testing stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./app/main.js"
+  },
+  "author": "getropp",
+  "license": "ISC",
+  "devDependencies": {}
+}
